@@ -18,5 +18,4 @@ interface BookmarkDao {
     @Query("SELECT * FROM bookmarks")
     suspend fun getAll(): List<Bookmark>
 
-
 }
