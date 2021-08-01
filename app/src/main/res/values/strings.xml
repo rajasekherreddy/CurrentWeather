@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CurrentWeather</string>
+
+    <string name="title_activity_main">Current weather</string>
+    <string name="bookmark">Bookmark this location</string>
+    <string name="max_min">Max %1$s ° / Min %2$s °</string>
+    <string name="temp">%s °</string>
+    <string name="description">Sunny</string>
+    <string name="humidity">Humidity is %s %%</string>
+    <string name="overview">Currently temperature is %1$s°C and feels like %2$s°C outside.\nThe wind is %3$s km/h. \nThe pressure is %4$s hPa</string>
+    <string name="remove_bookmark">Remove from bookmarks</string>
+    <string name="show_bookmark">Show bookmarks</string>
+    <string name="hide_bookmark">Explore locations</string>
+</resources>
